@@ -1,0 +1,11 @@
+*body{
+    background-color: black;
+    width: max-content;
+    height: max-content;
+}
+
+.h1{
+    color: rgba(0, 255, 0, 0.596);
+    width: 20px;
+    height: 30px;
+}
